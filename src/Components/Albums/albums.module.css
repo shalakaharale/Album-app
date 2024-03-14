@@ -1,0 +1,34 @@
+.albumsCont {
+  margin: 1rem 0.1rem;
+  height: 100%;
+  display: flex;
+}
+
+.formCont {
+  margin: 5rem 30rem;
+  padding: 20px;
+  background-color: rgb(228, 236, 214);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+input {
+  width: 200px;
+}
+.button {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  width: 80px;
+  background-color: cornsilk;
+}
+
+.allCardsCont {
+  display: flex;
+  flex-direction: row;
+}
